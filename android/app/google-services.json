@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280892005059",
+    "project_id": "hexa-9baaf",
+    "storage_bucket": "hexa-9baaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280892005059:android:696a7362a0f365b110a076",
+        "android_client_info": {
+          "package_name": "com.example.hexa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280892005059-q7ct5vtapp9cg8gjutm0jenrc6o4kht3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6gxFBAXkc_QvHFKffZbIe_IwMLWjYMTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280892005059-q7ct5vtapp9cg8gjutm0jenrc6o4kht3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
